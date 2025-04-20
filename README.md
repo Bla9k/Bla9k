@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... JS
 - 💞️ I’m looking to collaborate on ... MY APP
 - 📫 How to reach me ... TEXT ME
-- 😄 Pronouns: ... TRY/MR
+- 😄 Pronouns: ... TRY/ME
 - ⚡ Fun fact: ... THE WORLD IS ROUND
 
 <!---
